@@ -1,1 +1,1 @@
-
+print("Hello DIP02")
